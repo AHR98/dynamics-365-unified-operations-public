@@ -119,12 +119,14 @@ You can define information about the distance and transportation time between sh
 
 1. Go to **Organization administration** \> **Setup** \> **EInvoice**.
 2. On the **EInvoice** page, enter or select transportation spots.
-3. Enter the time and distance between the two spots. Transportation spots are all shipment and delivery points. Spots can have different types. Here are some examples:
+3. Transportation spots are all shipment and delivery points. Spots can have different types. Here are some examples:
 
     - Customer
     - Warehouse
     - Border (if goods are delivered to border)
     - Other
+4. Then, go to **Organization administration** \> **Setup** \>**Transit time and distance** page.
+5. Enter the time and distance between the two spots. 
 
 > [!NOTE] 
 > You can skip this procedure. However, in that case, you must manually enter the distance and transportation time on the **Transportation details** page.
